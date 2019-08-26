@@ -584,6 +584,23 @@ time
   font-family: Arial
 }
 
+.table
+{
+  table-layout: fixed;
+  width: 100%;
+  white-space: nowrap;
+}
+
+.col-site
+{
+  width: 30%;
+}
+
+.col-description
+{
+  width: 70%;
+}
+
 .gknow
 {
   border-left:solid 2px #b20000
