@@ -1,9 +1,9 @@
 # Site settings
-name: Theo Moss
+name: Home
 author: Theo Moss
-title: "Theo's Blog"
+title: 
 subtitle: 
-description: "INFJ: The Advocate"
+description: "Made with Jekyll by Theo Moss"
 slogan:
 keywords:
 language: 'en'
@@ -17,7 +17,7 @@ facebook: https://www.facebook.com/theophilus.moss
 linkedin: https://www.linkedin.com/in/tmoss4
 email: moss.theophilus@gmail.com
 location: 
-disqus: theos-blog
+disqus: 
 
 # Build settings
 markdown: kramdown
