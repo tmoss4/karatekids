@@ -1,4 +1,2 @@
-Maria, Gordon, Colin
+Made for Maria, Gordon, and Colin
 ============
-
-How much of a difference can one person make? 
